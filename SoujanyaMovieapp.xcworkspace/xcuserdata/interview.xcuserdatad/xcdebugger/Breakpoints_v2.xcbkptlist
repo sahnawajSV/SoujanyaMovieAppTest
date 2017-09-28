@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SoujanyaMovieapp/ViewControllers/MovieDetailViewController.swift"
+            timestampString = "528291312.025314"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SoujanyaMovieapp/ViewControllers/MovieDetailViewController.swift"
+            timestampString = "528289932.198459"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SoujanyaMovieapp.MovieDetailViewController.viewDidLoad () -&gt; ()"
+                  moduleName = "SoujanyaMovieapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/interview/Desktop/SoujanyaMovieapp/SoujanyaMovieapp/ViewControllers/MovieDetailViewController.swift"
+                  timestampString = "528290713.58089"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SoujanyaMovieapp.MovieDetailViewController.(viewDidLoad () -&gt; ()).(closure #1)"
+                  moduleName = "SoujanyaMovieapp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/interview/Desktop/SoujanyaMovieapp/SoujanyaMovieapp/ViewControllers/MovieDetailViewController.swift"
+                  timestampString = "528290713.582015"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
